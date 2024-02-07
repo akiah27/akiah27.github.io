@@ -28,6 +28,9 @@ p {
     line-height: 1.4em;
     color: #333;
 }
+
+
+
 footer {
     border-top: 1px solid #e6bab1;
     font-size: .8em;
@@ -41,3 +44,5 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+<body style="background-color:#FF0000;">
+</body>
